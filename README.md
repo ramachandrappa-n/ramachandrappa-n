@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%">
+</p>
 # Hi there 👋, I'm Ramachandrappa N Ankushakhani
 
 ## 💫 About Me
