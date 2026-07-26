@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm Ramachandrappa N Ankushakhani
 
-<!--
-**ramachandrappa-n/ramachandrappa-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
 
-Here are some ideas to get you started:
+🎓 Bachelor of Computer Applications (BCA) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Developer
+
+🤖 Passionate about Artificial Intelligence & Web Development
+
+🌱 Currently learning Full Stack Web Development
+
+🚀 Looking for Internship & Entry-Level Software Developer opportunities
+
+---
+
+## 💻 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Python
+- Java
+- C
+
+---
+
+## 🚀 Current Project
+
+### AI-Based Smart Farmer Support System
+
+An AI-powered web application that recommends suitable crops using weather, soil analysis, and location data.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/ramachandrappa-n-ankushakhani-58a12a423
+
+---
+
+⭐ Thanks for visiting my profile!
