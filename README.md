@@ -6,7 +6,7 @@
 
 💻 Aspiring Software Developer
 
-🤖 Passionate about Artificial Intelligence & Web Development
+🤖 Passionate about Software Development, Web Development, and Artificial Intelligence.
 
 🌱 Currently learning Full Stack Web Development
 
@@ -31,7 +31,9 @@
 
 ### AI-Based Smart Farmer Support System
 
-An AI-powered web application that recommends suitable crops using weather, soil analysis, and location data.
+Developed an AI-powered web application that recommends suitable crops using weather data, soil analysis, and location information.
+
+Technologies: HTML, CSS, JavaScript, PHP, MySQL.
 
 ---
 
